@@ -4,8 +4,8 @@ A domain-specific healthcare chatbot built by fine-tuning TinyLlama-1.1B using L
 
 ## Links
 
-- **Colab Notebook:** [Open in Google Colab](YOUR_COLAB_LINK_HERE)
-- **Demo Video:** [Watch Demo Video](YOUR_DEMO_VIDEO_LINK_HERE)
+- **Colab Notebook:** [Open in Google Colab](https://colab.research.google.com/drive/1HR8HoNGk3ArAkCIKHsLu4WKbXjJYPH67?usp=sharing)
+- **Demo Video:** [Watch Demo Video](https://youtu.be/I0VVHOadkWg)
 
 ## Project Overview
 
@@ -26,14 +26,14 @@ This project implements a healthcare assistant capable of answering medical ques
 
 Click the badge below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/healthcare_assistant_finetuning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HR8HoNGk3ArAkCIKHsLu4WKbXjJYPH67?usp=sharing)
 
 ### Local Setup
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/aubert-gloire/Domain-Specific-Assistant-via-LLMs-Fine-Tuning.git
 cd YOUR_REPO
 ```
 
